@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercise1</title>
+</head>
+<body>
+Enter a number: <input type="number" id="capNumber">
+<button type="button" id="show" onclick="show();">show</button>;
+<script>
+
+    function isPrime(N) {
+        if(N<2){
+            return false;
+        }else if(N===2){
+            return true;
+        }
+        else if(N>2){
+            for(i=2; i<N-1; i++){
+                if(N%i===0){
+                    return false;
+                    break;
+                }
+            }
+        }
+        return true;
+    }
+    function show(cap,arr){
+        let cap1 = document.getElementById("capNumber").innerHTML;
+          cap1= cap;
+        let arr1=[];
+            arr1=arr;
+        for(i=2;i<=cap;i++){
+         if(isPrime(i)){
+             arr1.push(i);
+         }
+        }
+        alert("so nguyen to tu 1 toi " + cap1 + "la: ");
+
+    }
+
+show(cap1,arr1);
+
+</script>
+
+</body>
+</html>

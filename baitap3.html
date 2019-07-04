@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tinhtuoi</title>
+</head>
+<body>
+
+<script>
+
+    function Tuoi(current,birthyear,){
+        let current1 =new Date().getFullYear();
+        let Old;
+        let birthyear1 =parseInt(prompt("Enter your birth year: "));
+        if (current<birthyear1){
+            alert("This year is invalid");
+        }else {
+            Old =current- birthyear1;
+        }
+        alert("Tuoi cua ban la: "+ Old);
+    }
+
+Tuoi(current1,birthyear1);
+
+</script>
+</body>
+</html>
