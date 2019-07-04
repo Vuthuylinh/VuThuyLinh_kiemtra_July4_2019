@@ -10,21 +10,23 @@
     let arr1 = [];
     if(n>0) {
         for (i = 1; i <= n; i++) {
-            let numberi = prompt(" nhap phan tu tai vi tri index = " + i + " cua mang");
+            let numberi = parseInt(prompt(" nhap phan tu tai vi tri index = " + i + " cua mang"));
             arr1.push(numberi);
         }alert("mang da nhap la: " + arr1);
     }
+    sumOdd(arr1);
 function sumOdd(arr) {
         let sum=0;
-        for (i=0;i<=arr.length; i++){
+        for (let i=0;i<arr.length; i++){
             if (arr[i]%2!==0){
-               sum+=i;
+               sum+=arr[i];
             }
         }
         document.write("tong so le trong mang la: " + sum);
 }
 
-sumOdd(arr1);
+
+
 </script>
 </body>
 </html>

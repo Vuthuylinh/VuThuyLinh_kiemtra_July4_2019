@@ -93,10 +93,6 @@
       <change afterPath="$PROJECT_DIR$/../P_session03_switchcase_bai2/bai2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P_session03_switchcase_bai3_nhapso/nhapso.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Section_01_hienthidaura_bai1/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baitap1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baitap2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cat1/funny-cat1_part1x1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cat2/funny-cat1_part2x1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo2ungdungmaytinh/demo2.html" afterDir="false" />
@@ -109,9 +105,17 @@
       <change afterPath="$PROJECT_DIR$/../demoConstant/script_demo.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo_Session03_baigiang/demo-bai3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo_table/demo_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hamNhapMangHaiChieu/manghaichieu.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../section_01_hienthidaura_bai2/bai2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ungdungmaytinh/maytinh.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ungdungmaytinh/ungdungmaytinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Baitap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2chieu.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitap2" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap2" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -128,8 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Baitap1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+            <state relative-caret-position="121">
+              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="36" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -137,13 +141,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Baitap2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+            <state relative-caret-position="255">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baitap3.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -152,11 +156,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bai4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="291">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="34" column="7" selection-start-line="34" selection-end-line="34" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -171,25 +184,17 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Baitap2.html" />
-        <option value="$PROJECT_DIR$/Baitap1.html" />
-        <option value="$PROJECT_DIR$/bai4.html" />
         <option value="$PROJECT_DIR$/baitap3.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/VuThuyLinh_kiemtra_July4_2019.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/Baitap1.html" />
+        <option value="$PROJECT_DIR$/Baitap2.html" />
+        <option value="$PROJECT_DIR$/bai4.html" />
       </list>
     </option>
   </component>
@@ -221,6 +226,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -253,12 +259,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562206996198</updated>
-      <workItem from="1562206997590" duration="7297000" />
+      <workItem from="1562206997590" duration="18014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7297000" />
+    <option name="totallyTimeSpent" value="18014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -269,7 +275,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.053285968" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -287,24 +293,31 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Baitap1.html">
+    <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+        <state relative-caret-position="306">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bai4.html">
+    <entry file="file://$PROJECT_DIR$/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="410">
+          <caret line="34" column="7" selection-start-line="34" selection-end-line="34" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baitap1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="36" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Baitap2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        <state relative-caret-position="255">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -312,6 +325,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

@@ -12,14 +12,18 @@ function tinhtong(arr) {
     let sum = 0;
     for (let i = 0; i < arr.length; i++) {
         for (j = 0; j < arr[i].length; j++) {
-            if (i = j) {
+            if (i === j) {
                 sum += arr[i][j];
             }
 
         }
     }alert(sum);
 }
-  tinhtong(arr1[[1,2,3,4],[2,3,4,5]])  ;
+
+
+let arr1=[[1,2,3,4],[2,3,4,5],[2,3,5,6,],[1,2,1,1]];
+
+  tinhtong(arr1) ;
 </script>
 </body>
 </html>

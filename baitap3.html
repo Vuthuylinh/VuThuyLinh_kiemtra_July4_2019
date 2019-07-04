@@ -8,19 +8,20 @@
 
 <script>
 
-    function Tuoi(current,birthyear,){
-        let current1 =new Date().getFullYear();
-        let Old;
-        let birthyear1 =parseInt(prompt("Enter your birth year: "));
-        if (current<birthyear1){
-            alert("This year is invalid");
-        }else {
-            Old =current- birthyear1;
+    let birthyear1 =parseInt(prompt("Enter your birth year: "));
+
+    function Old(birthyear) {
+        let  current = new Date().getFullYear();
+        if(birthyear>current){
+            alert("this year is not valid");
+        }else{alert(" your old is :" + (current-birthyear));
+
         }
-        alert("Tuoi cua ban la: "+ Old);
+
     }
 
-Tuoi(current1,birthyear1);
+Old(birthyear1);
+
 
 </script>
 </body>

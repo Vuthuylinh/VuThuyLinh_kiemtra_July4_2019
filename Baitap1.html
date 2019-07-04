@@ -5,8 +5,8 @@
     <title>Exercise1</title>
 </head>
 <body>
-Enter a number: <input type="number" id="capNumber">
-<button type="button" id="show" onclick="show();">show</button>;
+Enter a number: <input type="number" id="capNumber" >
+<button type="button" id="show" onclick="show();">show</button>
 <script>
 
     function isPrime(N) {
@@ -16,31 +16,32 @@ Enter a number: <input type="number" id="capNumber">
             return true;
         }
         else if(N>2){
-            for(i=2; i<N-1; i++){
+            for(let i=2; i<N-1; i++){
                 if(N%i===0){
                     return false;
-                    break;
+
                 }
             }
         }
         return true;
     }
-    function show(cap,arr){
-        let cap1 = document.getElementById("capNumber").innerHTML;
-          cap1= cap;
+    function listPrimes(cap){
         let arr1=[];
-            arr1=arr;
-        for(i=2;i<=cap;i++){
+        for(let i=2;i<=cap;i++){
          if(isPrime(i)){
              arr1.push(i);
          }
         }
-        alert("so nguyen to tu 1 toi " + cap1 + "la: ");
-
+        //alert("so nguyen to tu 1 toi " + cap1 + "la: ");
+        return arr1;
     }
 
-show(cap1,arr1);
-
+    function show() {
+        let cap1 = document.getElementById("capNumber").value;
+        let arr1 = listPrimes(cap1);
+        document.write(" Các số nguyên tố từ 1 đến "+ cap1 + " là: ["+arr1 + "]");
+    }
+    // show arr1;
 </script>
 
 </body>
