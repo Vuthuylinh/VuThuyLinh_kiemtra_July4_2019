@@ -6,26 +6,34 @@
 </head>
 <body>
 <script>
-    let n=parseInt(prompt("Nhap so luong phan tu trong mang: "));
-    let arr1 = [];
-    if(n>0) {
-        for (i = 1; i <= n; i++) {
-            let numberi = parseInt(prompt(" nhap phan tu tai vi tri index = " + i + " cua mang"));
-            arr1.push(numberi);
-        }alert("mang da nhap la: " + arr1);
+    function createArray() {
+        let number = parseInt(prompt("Nhap so luong phan tu trong mang: "));
+        let array = [];
+        if (number > 0) {
+            for (i = 1; i <= number; i++) {
+                let numberi = parseInt(prompt(" nhap phan tu tai vi tri index = " + i + " cua mang"));
+                array.push(numberi);
+            }
+            return array;
+        }
+
     }
-    sumOdd(arr1);
-function sumOdd(arr) {
+
+function sumOdd(Array) {
         let sum=0;
-        for (let i=0;i<arr.length; i++){
-            if (arr[i]%2!==0){
-               sum+=arr[i];
+        for (let i=0;i<Array.length; i++){
+            if (Array[i]%2!==0){
+               sum+=Array[i];
             }
         }
-        document.write("tong so le trong mang la: " + sum);
+        return sum;
 }
 
 
+ let array1= createArray();
+    document.write("Mang vua nhap la: " + array1 + "<br>");
+ let sum1 = sumOdd(array1);
+    document.write("Tong so le trong mang la: " + sum1);
 
 </script>
 </body>

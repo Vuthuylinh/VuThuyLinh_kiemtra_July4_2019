@@ -8,19 +8,25 @@
 
 <script>
 
-    let birthyear1 =parseInt(prompt("Enter your birth year: "));
+    let birthYear =parseInt(prompt("Enter your birth year: "));
 
-    function Old(birthyear) {
-        let  current = new Date().getFullYear();
-        if(birthyear>current){
-            alert("this year is not valid");
-        }else{alert(" your old is :" + (current-birthyear));
+    function calculateAge(birthYear) {
+        let  currentYear = new Date().getFullYear();
+        if(birthYear>currentYear){
+            return -1;
+        }else{
+            return  currentYear-birthYear;
 
         }
 
     }
 
-Old(birthyear1);
+let result = calculateAge(birthYear);
+    if(result === -1){
+        alert("This year is not valid");
+    }else{
+        alert("Your old is: " +result);
+    }
 
 
 </script>

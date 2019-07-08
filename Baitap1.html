@@ -5,19 +5,19 @@
     <title>Exercise1</title>
 </head>
 <body>
-Enter a number: <input type="number" id="capNumber" >
-<button type="button" id="show" onclick="show();">show</button>
+Enter a number: <input type="number" id="txtNumber" >
+<button type="button" id="btnShow" onclick="show();">show</button>
 <script>
 
-    function isPrime(N) {
-        if(N<2){
+    function isPrime(number) {
+        if(number<2){
             return false;
-        }else if(N===2){
+        }else if(number===2){
             return true;
         }
-        else if(N>2){
-            for(let i=2; i<N-1; i++){
-                if(N%i===0){
+        else if(number>2){
+            for(let i=2; i<number-1; i++){
+                if(number%i===0){
                     return false;
 
                 }
@@ -25,23 +25,23 @@ Enter a number: <input type="number" id="capNumber" >
         }
         return true;
     }
-    function listPrimes(cap){
-        let arr1=[];
-        for(let i=2;i<=cap;i++){
+    function listPrimes(capNumber){
+        let array=[];
+        for(let i=2;i<=capNumber;i++){
          if(isPrime(i)){
-             arr1.push(i);
+             array.push(i);
          }
         }
-        //alert("so nguyen to tu 1 toi " + cap1 + "la: ");
-        return arr1;
+
+        return array;
     }
 
     function show() {
-        let cap1 = document.getElementById("capNumber").value;
-        let arr1 = listPrimes(cap1);
-        document.write(" Các số nguyên tố từ 1 đến "+ cap1 + " là: ["+arr1 + "]");
+        let capNumber = document.getElementById("txtNumber").value;
+        let array = listPrimes(capNumber);
+        document.write(" Các số nguyên tố từ 1 đến "+ capNumber + " là: ["+array + "]");
     }
-    // show arr1;
+
 </script>
 
 </body>

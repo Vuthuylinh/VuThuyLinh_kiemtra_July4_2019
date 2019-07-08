@@ -83,9 +83,16 @@
       <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap8.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BP_session06_taovasudungham2/baitap9.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BP_session06_timMinTrongMang/timMin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_DienThoai/DienThoai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_xaydung_lop_Hinhtron/Circle_Class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_xaydung_lop_mota_HinhChuNhat/hinhchunhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_xaydunglopDate/dateClass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_xaydunglopDate/ddMMyyyy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session07_xaydunglop_mota_temperature/temperature.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BP_session4_vonglap_longnhau/demo_table.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BP_session4_vonglap_longnhau/nested_loop.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BP_session5_taolapmang/tao_mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BP_session7_FunnyCircle/funnyCircle.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BP_session_04_dowhile_sample/dowhilesample.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BP_sessison4_vonglapWhile/bai1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BP_sessison4_vonglapWhile_the_hr/th_hr.html" afterDir="false" />
@@ -93,6 +100,7 @@
       <change afterPath="$PROJECT_DIR$/../P_session03_switchcase_bai2/bai2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P_session03_switchcase_bai3_nhapso/nhapso.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Section_01_hienthidaura_bai1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cat1/funny-cat1_part1x1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cat2/funny-cat1_part2x1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo2ungdungmaytinh/demo2.html" afterDir="false" />
@@ -112,10 +120,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Baitap1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Baitap2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baitap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mang2chieu.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitap2" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap2" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -128,12 +133,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Baitap1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="578">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -141,8 +146,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Baitap2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="493">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -150,8 +155,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baitap3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="289">
+              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -159,8 +164,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bai4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="415">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -168,8 +173,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="34" column="7" selection-start-line="34" selection-end-line="34" selection-end-column="7" />
+            <state relative-caret-position="85">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -189,20 +194,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/baitap3.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/demo.html" />
         <option value="$PROJECT_DIR$/Baitap1.html" />
         <option value="$PROJECT_DIR$/Baitap2.html" />
+        <option value="$PROJECT_DIR$/baitap3.html" />
         <option value="$PROJECT_DIR$/bai4.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1943" />
-    <option name="height" value="1043" />
+    <option name="x" value="1090" />
+    <option name="y" value="124" />
+    <option name="width" value="840" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -259,24 +264,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562206996198</updated>
-      <workItem from="1562206997590" duration="18014000" />
+      <workItem from="1562206997590" duration="18803000" />
+      <workItem from="1562549003661" duration="2847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18014000" />
+    <option name="totallyTimeSpent" value="21650000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="727" y="83" width="560" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.063097514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.053285968" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -284,6 +286,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.05319149" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,38 +306,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.html">
+    <entry file="file://$PROJECT_DIR$/Baitap1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="34" column="7" selection-start-line="34" selection-end-line="34" selection-end-column="7" />
+        <state relative-caret-position="578">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Baitap1.html">
+    <entry file="file://$PROJECT_DIR$/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Baitap2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="493">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baitap3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="289">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bai4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="415">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
